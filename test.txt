@@ -1,0 +1,4 @@
+Never use unicode characters in code examples or technical output, 
+including check marks (✓ ✔ ✅), X marks (✗ ✘ ❌), arrows (→ ← ↑), 
+or any other non-ASCII characters. Use plain ASCII alternatives like 
+[OK], [FAIL], [ERROR], or --> instead.
